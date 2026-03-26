@@ -23,6 +23,15 @@ _Summary:_ This project is an introduction to deep learning and NLP: recurrent n
 
 ## Chapter I
 
+How to learn at “School 21”:
+
+- Here, you’ll find a unique learning experience with a lot of freedom. You’re given a task and left to find your own way to solve it, using whatever resources work best for you — whether that’s the Internet or AI tools like GigaChat. Just be mindful of information quality: verify, think critically, analyze, and compare.
+- Peer-to-peer (P2P) learning is the exchange of knowledge and experience with peers, where everyone acts as both mentor and student. This approach allows you to gain a deeper understanding of the material by learning from one another.
+- Feel free to ask for help: around you are peers who are also navigating this path for the first time. Share your own experience and ideas with others.  Join Rocket.Chat to stay updated with the latest community announcements. 
+- Your learning is meaningless if you just copy someone else’s solutions. When receiving help from others, always make sure you fully understand the “why”, “how”, and “purpose” behind the solution. Don’t be afraid to make mistakes. 
+- Does the task seem impossible? Take a break, get some fresh air and clear your mind — this has helped many people. Maybe after that, the solution will come to you naturally.
+- The learning process is just as important as the result. It’s not just about completing the task — it’s about understanding HOW to solve it. 
+
 ### Preamble
 
 The story of humans trying to create an AI agent that can have a meaningful conversation with us began many years ago. One of the most prominent examples is ELIZA. It is an NLP computer program created in the mid-60s that simulated conversations with a therapist.
